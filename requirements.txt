@@ -1,0 +1,7 @@
+torch>=2.0
+torchaudio
+gradio>=4.0
+git+https://github.com/coqui-ai/TTS@v0.22.0
+openai-whisper
+ffmpeg-python
+numpy
